@@ -1,5 +1,5 @@
 """
-Handles refresing tokens with MSAL.
+Handles refreshing tokens with MSAL.
 """
 from abc import abstractmethod
 from typing import Dict, List, Type

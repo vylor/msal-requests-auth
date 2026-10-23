@@ -60,7 +60,7 @@ class SimpleTokenCache(_BaseTokenCache):
         Parameters
         ----------
         cache_file: Union[str, os.PathLike, None], optional
-            Path to the token cache fike. If not provided,
+            Path to the token cache file. If not provided,
             it will store one for you in the user cache directory.
         """
         super().__init__()

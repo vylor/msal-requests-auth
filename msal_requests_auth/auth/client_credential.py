@@ -1,5 +1,5 @@
 """
-Module for handling the Device Code flow with MSAL and credential refresh.
+Module for handling the Client Credential flow with MSAL and credential refresh.
 """
 from typing import Dict
 
