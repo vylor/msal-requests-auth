@@ -36,6 +36,15 @@
         "review"
       ]
     },
+    {
+      "login": "Avicennasis",
+      "name": "Léon Simmons",
+      "avatar_url": "https://avatars.githubusercontent.com/u/913872?v=4",
+      "profile": "https://github.com/Avicennasis",
+      "contributions": [
+        "doc"
+      ]
+    }
   ],
   "contributorsPerLine": 7
 }

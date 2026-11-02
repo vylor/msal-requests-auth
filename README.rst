@@ -5,7 +5,7 @@ msal-requests-auth
 Authentication using python requests and MSAL. This uses the MSAL cache
 for repeated requests.
 
-.. image:: https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square
+.. image:: https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square
     :alt: All Contributors
     :target: https://github.com/vylor/msal-requests-auth/blob/master/AUTHORS.rst
 
